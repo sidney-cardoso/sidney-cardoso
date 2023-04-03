@@ -75,3 +75,5 @@
 
 ###
 ![snake gif](https://github.com/sidney-cardoso/sidney-cardoso/blob/output/github-contribution-grid-snake.svg)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ofuv846fd3jpotllxqks5i82m)
