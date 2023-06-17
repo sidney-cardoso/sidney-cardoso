@@ -65,5 +65,5 @@
 ###
 <div align="center">
   <img src="https://github.com/sidney-cardoso/sidney-cardoso/blob/output/github-contribution-grid-snake.svg" width="880" height="192" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ofuv846fd3jpotllxqks5i82m" width="400" height="500" />
+  <!--<img src="https://spotify-recently-played-readme.vercel.app/api?user=ofuv846fd3jpotllxqks5i82m" width="400" height="500" />-->
 </div>
