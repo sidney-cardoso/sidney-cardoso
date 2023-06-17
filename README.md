@@ -48,7 +48,7 @@
 </div>
 
 ###
-<!--
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sidney-cardoso&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="220" alt="streak graph"  />
 </div>
--->
+
 ###
 <div align="center">
   <img src="https://github.com/sidney-cardoso/sidney-cardoso/blob/output/github-contribution-grid-snake.svg" width="880" height="192" />
